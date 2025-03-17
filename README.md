@@ -15,4 +15,22 @@ HTML adalah singkatan dari Hyper Text Markup Language, meeupakan bahasa markup s
 7. Elemen p mendefinisikan sebuah paragraf.
 
 ### Penjelasan Hasil Percobaan 2
+Tag a mendefinisikan hyperlink. href Atribut menentukan URL halaman yang dituju oleh tautan tersebut.
+
+### Penjelasan Hasil Percobaan 3
+Tag img ini digunakan untuk menyematkan gambar di halaman HTML. srcAtribut menentukan jalur ke gambar yang akan ditampilkan.
+
+### Penjelasan Hasil Percobaan 4
+
+### Penjelasan Hasil Percobaan 5
+
+### Penjelasan Hasil Percobaan 6
+
+### Penjelasan Hasil Percobaan 7
+
+### Penjelasan Hasil Percobaan 8
+
+### Penjelasan Hasil Percobaan 9
+
+### Penjelasan Hasil Percobaan 10
 
