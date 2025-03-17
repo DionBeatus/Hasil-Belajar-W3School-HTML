@@ -82,6 +82,25 @@
 
 
 7.
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Pre tag</p>
+
+<pre>
+   La
+   
+   La
+   
+   La
+</pre>
+
+</body>
+</html>
+
+
+8.
 
 
 
