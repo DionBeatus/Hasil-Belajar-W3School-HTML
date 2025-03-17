@@ -38,5 +38,50 @@
 </html>
 
 4.
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="font-size:55px;">Testing</h1>
+
+<p>Atribut style dapat digunakan untuk mengubah size heading atau output yg akan ditampilkan.</p>
+
+</body>
+</html>
+
+
+5.
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Test 1</h1>
+<p>This is some test.</p>
+<hr>
+
+<h2>Test 2</h2>
+<p>This is some other test.</p>
+<hr>
+
+<h2>Test 3</h2>
+<p>This is some other test.</p>
+
+</body>
+</html>
+
+
+6.
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>1<br>2<br>3</p>
+
+</body>
+</html>
+
+
+7.
+
 
 
