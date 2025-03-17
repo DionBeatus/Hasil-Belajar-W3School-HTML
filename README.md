@@ -3,9 +3,9 @@ Repository ini dibuat untuk memenuhi tugas mata kuliah Pemrograman Web Dasar.
 
 ## Pengenalan HTML
 HTML adalah singkatan dari Hyper Text Markup Language, meeupakan bahasa markup standar untuk membuat halaman Web, HTML menggambarkan struktur halaman Web.
--lain.
+-lain. Elemen HTML adalah segalanya dari tag awal hingga tag akhir yang didefinisikan oleh tag awal, beberapa konten, dan tag akhir.
 
-### Hasil Percobaan 1
+### Penjelasan Hasil Percobaan 1
 1. Deklarasi ini !DOCTYPE html mendefinisikan bahwa dokumen ini adalah dokumen HTML5.
 2. Elemen html adalah elemen akar dari halaman HTML.
 3. Elemen ini head berisi informasi meta tentang halaman HTML.
@@ -14,5 +14,5 @@ HTML adalah singkatan dari Hyper Text Markup Language, meeupakan bahasa markup s
 6. Elemen ini h1 mendefinisikan judul besar.
 7. Elemen p mendefinisikan sebuah paragraf.
 
-### Hasil Percobaan 2
+### Penjelasan Hasil Percobaan 2
 
