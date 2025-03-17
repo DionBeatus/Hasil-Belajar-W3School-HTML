@@ -21,8 +21,10 @@ Tag a mendefinisikan hyperlink. href Atribut menentukan URL halaman yang dituju 
 Tag img ini digunakan untuk menyematkan gambar di halaman HTML. srcAtribut menentukan jalur ke gambar yang akan ditampilkan. Tag img juga harus berisi atribut widthdan height, yang menentukan lebar dan tinggi gambar (dalam piksel).
 
 ### Penjelasan Hasil Percobaan 4
+Atribut style dapat digunakan untuk mengubah size heading atau output yg akan ditampilkan.
 
 ### Penjelasan Hasil Percobaan 5
+
 
 ### Penjelasan Hasil Percobaan 6
 
