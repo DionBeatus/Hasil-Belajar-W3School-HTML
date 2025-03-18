@@ -8,10 +8,11 @@
 
 <header>
     <h1>Hasil Belajar W3School - HTML</h1>
+    <p>Repository ini dibuat untuk memenuhi tugas mata kuliah Pemrograman Web Dasar di Institut Teknologi dan Bisnis Pontianak</p>
 </header>
 
 <section id="html-introduction">
-    <h2>HTML Pengenalan</h2>
+    <h2>Pengenalan HTML</h2>
     <p>HTML (HyperText Markup Language) adalah bahasa standar untuk membuat halaman web.</p>
 </section>
 
