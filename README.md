@@ -24,4 +24,5 @@
 <p>NIM: 24200022</p>
 <p>Kontak: <a href="https://www.instagram.com/michaell_yon?igsh=NWR0NWwwaW80dmQ3">Instagram</a></p>
 
+<p>&copy; 2025 Semua hak cipta dilindungi.</p>
 </body>
