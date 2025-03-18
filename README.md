@@ -16,7 +16,7 @@
 
 <h3>2. Jeongyeon: The Star is Born (Disney+)</h3>
 <p>Jeong Nyeon: The Star is Born adalah drama Korea mendatang yang diadaptasi dari webtoon populer berjudul Jeong Nyeon karya Seo Ire dan Namon. Drama ini berlatar belakang tahun 1950-an dan mengisahkan perjalanan seorang gadis muda yang bercita-cita menjadi bintang panggung dalam dunia gukgeuk (teater tradisional Korea). Drama ini berhasil memukau para penonton dengan ketotalitasan akting dari para aktrisnya.</p>
-<img src="https://github.com/CherylKucharova/Pemrogaman-Web-Dasar/blob/a98a0ee56a08df178809f5c5a1569ee237fbbbef/Mind%20map.jpg" width="500" height="300">
+<img src="https://github.com/DionBeatus/Hasil-Belajar-W3School-HTML/blob/ff57abb7f86e5d9e49b0e16f2954e779a61b1778/Jeongnyeon%20The%20Star%20Is%20Born.jpg" width="500" height="300">
 
 <h3>3. Lovely Runner (Viu/Netflix)</h3>
 <p>Lovely Runner menarik perhatian banyak penonton karena alur ceritanya yang penuh emosi serta nuansa nostalgia dari era remaja. Drama ini memiliki alur maju mundur yang akan memberikan rasa penasaran bagi para penonton.</p>
