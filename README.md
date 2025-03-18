@@ -20,7 +20,7 @@
 
 <h3>3. Lovely Runner (Viu/Netflix)</h3>
 <p>Lovely Runner menarik perhatian banyak penonton karena alur ceritanya yang penuh emosi serta nuansa nostalgia dari era remaja. Drama ini memiliki alur maju mundur yang akan memberikan rasa penasaran bagi para penonton.</p>
-<img src="https://github.com/CherylKucharova/Pemrogaman-Web-Dasar/blob/a98a0ee56a08df178809f5c5a1569ee237fbbbef/Mind%20map.jpg" width="500" height="300">
+<img src="https://github.com/DionBeatus/Hasil-Belajar-W3School-HTML/blob/56f2364e86823a293446efe77033b97fa71d2219/Lovely%20Runner.jpg" width="500" height="300">
 
 <h3>Tentang Saya</h3>
 <p>Nama: Dion Beatus</p>
