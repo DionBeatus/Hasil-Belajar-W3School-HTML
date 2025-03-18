@@ -11,13 +11,13 @@
 <h2>Berikut adalah drama korea terbaik menurut saya yang akan terus saya rekomendasikan: </h2>
 
 <h3>1. The Tale of Lady Ok (Viu/Netflix)</h3>
-<p>Drama ini termasuk drama yang jarang ditonton karena banyak penonton drama Korea yang kurang menyukai drama saeguk (latar sejarah) karena memiliki trauma (K-Trauma) yang mendalam akan drama dengan genre tersebut, namun percayalah dalam drama ini dimulai dari OST, cinematografi, alur, tokoh, karakter, akting yang memukau dari para aktor dan aktrisnya dan endingnya sempurna.</p>
+<p>The Tale of Lady Ok adalah salah satu drama Korea yang memikat hati penonton dengan kisahnya yang kaya akan sejarah dan budaya Korea, disertai dengan konflik emosional yang mendalam. Drama ini membawa penonton ke dalam dunia yang penuh dengan konflik politik, cinta, dan pengorbanan. The Tale of Lady Ok menyajikan narasi yang memadukan antara legenda dan kenyataan.</p>
 
 <h3>2. Jeongyeon: The Star is Born (Disney+)</h3>
-<p></p>
+<p>Jeong Nyeon: The Star is Born adalah drama Korea mendatang yang diadaptasi dari webtoon populer berjudul Jeong Nyeon karya Seo Ire dan Namon. Drama ini berlatar belakang tahun 1950-an dan mengisahkan perjalanan seorang gadis muda yang bercita-cita menjadi bintang panggung dalam dunia gukgeuk (teater tradisional Korea). Drama ini berhasil memukau para penonton dengan ketotalitasan akting dari para aktrisnya.</p>
 
-<h3>3. The Tale of Lady Ok (Viu/Netflix)</h3>
-<p></p>
+<h3>3. Lovely Runner (Viu/Netflix)</h3>
+<p>Lovely Runner menarik perhatian banyak penonton karena alur ceritanya yang penuh emosi serta nuansa nostalgia dari era remaja. Drama ini memiliki alur maju mundur yang akan memberikan rasa penasaran bagi para penonton.</p>
 
     
 </body>
