@@ -1,31 +1,123 @@
 <!DOCTYPE html>
-<html>
+<html lang="id">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-</html>
 <body>
-<h1>Rekomendasi 3 Drama Korea Terbaik</h1>
-<p>Drama Korea atau K-Drama telah menjadi sarana hiburan bagi banyak orang, drama Korea menawarkan lebih dari sekedar hiburan. Drama Korea memiliki cerita yang beragam dan mendalam hingga plot twist yang tak terduga, karakter-karakter yang berkembang dengan baik, dan tema yang sering kali menyentuh berbagai aspek kehidupan, dari persahabatan hingga cinta sejati. Selain itu, K-Drama sering kali menggali nilai-nilai budaya Korea yang unik, menjadikannya lebih menarik untuk ditonton.</p>
 
-<p>Salah satu aspek yang membuat drama Korea begitu istimewa adalah totalitas akting para aktor dan aktris yang memukau. Dalam ke 5 drama Korea yang akan saya rekomendasikan ini, Anda akan melihat aktor yang benar-benar menghidupkan karakter mereka dengan begitu mendalam dan penuh emosi. Akting yang tidak hanya mengandalkan ekspresi wajah, tetapi juga kemampuan untuk menyampaikan emosi melalui gerakan tubuh, intonasi suara, dan interaksi dengan karakter lainnya.</p>
-<h2>Berikut adalah drama korea terbaik menurut saya yang akan terus saya rekomendasikan: </h2>
+<header>
+    <h1>Hasil Belajar W3School - HTML</h1>
+</header>
 
-<h3>1. The Tale of Lady Ok (Viu/Netflix)</h3>
-<p>The Tale of Lady Ok adalah salah satu drama Korea yang memikat hati penonton dengan kisahnya yang kaya akan sejarah dan budaya Korea, disertai dengan konflik emosional yang mendalam. Drama ini membawa penonton ke dalam dunia yang penuh dengan konflik politik, cinta, dan pengorbanan. The Tale of Lady Ok menyajikan narasi yang memadukan antara legenda dan kenyataan.</p>
-<img src="https://github.com/DionBeatus/Hasil-Belajar-W3School-HTML/blob/88718d17d8b877f7f48dedc47ab11fadfd281bc3/The%20Tale%20of%20Lady%20Ok.jpg" width="500" height="300">
+<section id="html-introduction">
+    <h2>HTML Pengenalan</h2>
+    <p>HTML (HyperText Markup Language) adalah bahasa standar untuk membuat halaman web.</p>
+</section>
 
-<h3>2. Jeongyeon: The Star is Born (Disney+)</h3>
-<p>Jeong Nyeon: The Star is Born adalah drama Korea mendatang yang diadaptasi dari webtoon populer berjudul Jeong Nyeon karya Seo Ire dan Namon. Drama ini berlatar belakang tahun 1950-an dan mengisahkan perjalanan seorang gadis muda yang bercita-cita menjadi bintang panggung dalam dunia gukgeuk (teater tradisional Korea). Drama ini berhasil memukau para penonton dengan ketotalitasan akting dari para aktrisnya.</p>
-<img src="https://github.com/DionBeatus/Hasil-Belajar-W3School-HTML/blob/ff57abb7f86e5d9e49b0e16f2954e779a61b1778/Jeongnyeon%20The%20Star%20Is%20Born.jpg" width="500" height="300">
+<section id="html-editor">
+    <h2>HTML Editor</h2>
+    <p>Dokumen HTML dapat dibuat dengan editor teks sederhana atau editor HTML yang lebih canggih.</p>
+</section>
 
-<h3>3. Lovely Runner (Viu/Netflix)</h3>
-<p>Lovely Runner menarik perhatian banyak penonton karena alur ceritanya yang penuh emosi serta nuansa nostalgia dari era remaja. Drama ini memiliki alur maju mundur yang akan memberikan rasa penasaran bagi para penonton.</p>
-<img src="https://github.com/DionBeatus/Hasil-Belajar-W3School-HTML/blob/56f2364e86823a293446efe77033b97fa71d2219/Lovely%20Runner.jpg" width="500" height="300">
+<section id="html-basic">
+    <h2>HTML Dasar</h2>
+    <p>Struktur dasar HTML terdiri dari elemen-elemen utama seperti doctype, html, head, dan body.</p>
+</section>
 
-<h3>Tentang Saya</h3>
-<p>Nama: Dion Beatus</p>
-<p>NIM: 24200022</p>
-<p>Kontak: <a href="https://www.instagram.com/michaell_yon?igsh=NWR0NWwwaW80dmQ3">Instagram</a></p>
+<section id="html-elements">
+    <h2>HTML Elemen</h2>
+    <p>Elemen HTML adalah komponen penyusun halaman web.</p>
+</section>
 
-<p>&copy; 2025 Semua hak cipta dilindungi.</p>
+<section id="html-attributes">
+    <h2>HTML Atribut</h2>
+    <p>Atribut digunakan untuk memberikan informasi tambahan pada elemen HTML.</p>
+</section>
+
+<section id="html-classes">
+    <h2>HTML Classes</h2>
+    <p>Class digunakan untuk memberi nama pada elemen dan dapat digunakan dalam CSS dan JavaScript.</p>
+</section>
+
+<section id="html-id">
+    <h2>HTML ID</h2>
+    <p>ID digunakan untuk memberikan identitas unik pada elemen.</p>
+</section>
+
+<section id="html-iframes">
+    <h2>HTML Iframes</h2>
+    <p>Iframes digunakan untuk menyematkan halaman web di dalam halaman lain.</p>
+</section>
+
+<section id="html-javascript">
+    <h2>HTML JavaScript</h2>
+    <p>JavaScript dapat digunakan dalam HTML untuk menambahkan interaktivitas.</p>
+</section>
+
+<section id="file-path">
+    <h2>File Path</h2>
+    <p>File path digunakan untuk menentukan lokasi file dalam HTML.</p>
+</section>
+
+<section id="head">
+    <h2>Head</h2>
+    <p>Bagian head berisi metadata seperti title, meta tags, dan link ke CSS.</p>
+</section>
+
+<section id="layout">
+    <h2>Layout</h2>
+    <p>HTML dan CSS digunakan untuk mengatur tata letak halaman web.</p>
+</section>
+
+<section id="responsive">
+    <h2>Responsive</h2>
+    <p>Desain responsif membuat halaman web tampil baik di berbagai perangkat.</p>
+</section>
+
+<section id="computercode">
+    <h2>Computer Code</h2>
+    <p>Tag seperti &lt;code&gt;, &lt;pre&gt;, dan &lt;samp&gt; digunakan untuk menampilkan kode komputer.</p>
+</section>
+
+<section id="semantics">
+    <h2>Semantics</h2>
+    <p>HTML5 menyediakan elemen semantik seperti &lt;article&gt;, &lt;section&gt;, &lt;nav&gt; untuk struktur yang lebih bermakna.</p>
+</section>
+
+<section id="style-guide">
+    <h2>Style Guide</h2>
+    <p>Pedoman untuk menulis HTML yang bersih dan rapi.</p>
+</section>
+
+<section id="entities">
+    <h2>Entities</h2>
+    <p>HTML entities digunakan untuk menampilkan karakter khusus seperti &amp;lt; dan &amp;gt;.</p>
+</section>
+
+<section id="symbol">
+    <h2>Symbol</h2>
+    <p>Simbol dalam HTML seperti &amp;copy;, &amp;trade;, &amp;hearts;.</p>
+</section>
+
+<section id="emojis">
+    <h2>Emojis</h2>
+    <p>HTML mendukung berbagai emoji menggunakan Unicode seperti &#128512; (😀).</p>
+</section>
+
+<section id="charset">
+    <h2>Charset</h2>
+    <p>Meta charset menentukan jenis karakter yang digunakan dalam halaman web, seperti UTF-8.</p>
+</section>
+
+<section id="url-encode">
+    <h2>URL Encode</h2>
+    <p>URL encoding menggantikan karakter khusus dalam URL dengan kode yang sesuai.</p>
+</section>
+
+<footer>
+    <p>Panduan HTML & CSS - 2025</p>
+</footer>
+
 </body>
+</html>
