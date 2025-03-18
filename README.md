@@ -115,6 +115,11 @@
     <p>URL encoding menggantikan karakter khusus dalam URL dengan kode yang sesuai.</p>
 </section>
 
+<section id="sekian-terimakasih">
+    <h3>Sekian dan Terimakasih</h3>
+    <img src="https://github.com/DionBeatus/Hasil-Belajar-W3School-HTML/blob/6f47899ba7d29bf6f87ff6fc268e22702443d7c3/Kim%20Ji-Won.jpg" width="200" height="300">
+</section>
+
 <footer>
     <h3>Tentang Saya</h3>
     <p>Nama: Dion Beatus</p>
