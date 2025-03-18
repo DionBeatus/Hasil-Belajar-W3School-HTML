@@ -12,7 +12,7 @@
 
 <h3>1. The Tale of Lady Ok (Viu/Netflix)</h3>
 <p>The Tale of Lady Ok adalah salah satu drama Korea yang memikat hati penonton dengan kisahnya yang kaya akan sejarah dan budaya Korea, disertai dengan konflik emosional yang mendalam. Drama ini membawa penonton ke dalam dunia yang penuh dengan konflik politik, cinta, dan pengorbanan. The Tale of Lady Ok menyajikan narasi yang memadukan antara legenda dan kenyataan.</p>
-<img src="https://github.com/CherylKucharova/Pemrogaman-Web-Dasar/blob/a98a0ee56a08df178809f5c5a1569ee237fbbbef/Mind%20map.jpg" width="800" height="300">
+<img src="https://github.com/DionBeatus/Hasil-Belajar-W3School-HTML/blob/88718d17d8b877f7f48dedc47ab11fadfd281bc3/The%20Tale%20of%20Lady%20Ok.jpg" width="800" height="300">
 
 <h3>2. Jeongyeon: The Star is Born (Disney+)</h3>
 <p>Jeong Nyeon: The Star is Born adalah drama Korea mendatang yang diadaptasi dari webtoon populer berjudul Jeong Nyeon karya Seo Ire dan Namon. Drama ini berlatar belakang tahun 1950-an dan mengisahkan perjalanan seorang gadis muda yang bercita-cita menjadi bintang panggung dalam dunia gukgeuk (teater tradisional Korea). Drama ini berhasil memukau para penonton dengan ketotalitasan akting dari para aktrisnya.</p>
